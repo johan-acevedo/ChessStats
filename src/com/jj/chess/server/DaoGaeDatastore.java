@@ -3,7 +3,7 @@ package com.jj.chess.server;
 import java.util.logging.Logger;
 
 import com.googlecode.objectify.ObjectifyService;
-import com.googlecode.objectify.helper.DAOBase;
+import com.googlecode.objectify.util.DAOBase;
 import com.jj.chess.shared.ChessPositionStatistics;
 
 /**

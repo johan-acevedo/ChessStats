@@ -3,7 +3,7 @@ package com.jj.chess.test;
 import java.util.HashMap;
 import java.util.logging.Logger;
 
-import com.googlecode.objectify.helper.DAOBase;
+import com.googlecode.objectify.util.DAOBase;
 import com.jj.chess.server.Dao;
 import com.jj.chess.shared.ChessPositionStatistics;
 
